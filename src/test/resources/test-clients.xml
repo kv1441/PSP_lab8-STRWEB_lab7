@@ -1,0 +1,26 @@
+<clients>
+    <client>
+        <name>Ivan Ivanov</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <membership>Gold</membership>
+    </client>
+    <client>
+        <name>Irina Ivanova</name>
+        <age>28</age>
+        <gender>Female</gender>
+        <membership>Silver</membership>
+    </client>
+    <client>
+        <name>Pyotr Petrov</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <membership>Gold</membership>
+    </client>
+    <client>
+        <name>Alyona Petrova</name>
+        <age>18</age>
+        <gender>Female</gender>
+        <membership>Brilliant</membership>
+    </client>
+</clients>
